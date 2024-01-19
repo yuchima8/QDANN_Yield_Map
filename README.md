@@ -13,6 +13,6 @@ For example, if you want to use the corn and soybean yield map in Iowa (IA) in 2
 
 var crop_yield_map_IA = ee.Image('projects/lobell-lab/VAE_QDANN_Yield_Map/IA/IA_corn_soy_map_2008')
 
-A demonstration of showing the corn and soybean yield maps is given in https://code.earthengine.google.com/2670369d988931a503655f4ebe4bcae6?asset=projects%2Flobell-lab%2FVAE_QDANN_Yield_Map.
+A demonstration of showing the corn and soybean yield maps is given in https://code.earthengine.google.com/615eefed881a35b795daf47c6256e89c?asset=projects%2Flobell-lab%2FVAE_QDANN_Yield_Map.
 
-A demonstration of showing the winter wheat yield maps is given in https://code.earthengine.google.com/bc7d175f9b28e165afd6cae5067d434f?asset=projects%2Flobell-lab%2FVAE_QDANN_Yield_Map.
+A demonstration of showing the winter wheat yield maps is given in https://code.earthengine.google.com/457ce6c72452a8c0d2e6979cda3685cd?asset=projects%2Flobell-lab%2FVAE_QDANN_Yield_Map.
