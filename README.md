@@ -1,7 +1,7 @@
 # QDANN Yield Map
 This is the homepage to host the QDANN yield maps, which is generated based on a scale transfer framework Quantile loss Domain Adversarial Neural Network (QDANN). 
 
-<img src="[https://github.com/yuchima8/QDANN_Yield_Map/blob/76832033ddc067b7c29981288bfe6b899fe057cf/QDANN_yield_map.png)" width="500" height="600">
+![alt text](https://github.com/yuchima8/QDANN_Yield_Map/blob/76832033ddc067b7c29981288bfe6b899fe057cf/QDANN_yield_map.png)
 
 # Method 
 
