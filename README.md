@@ -1,6 +1,9 @@
 # QDANN Yield Map
 This is the homepage to host the QDANN yield maps, which is generated based on a scale transfer framework Quantile loss Domain Adversarial Neural Network (QDANN). 
 
+![image](https://github.com/yuchima8/QDANN_Yield_Map/assets/157165706/1946ec84-f861-4ac3-8e3e-8b5438afec4b)
+
+
 # Method 
 
 The QDANN model relies on labeled county-level dataset and unlabeled subfield-level dataset. These two datasets are regared as two domains and the strategy of unsupervised domain adaptation (UDA) is used to match the data distributions in the county-level dataset (source domain) and the subfield-level dataset (target domain). Domain adversarial neural networks (DANN) is the core of this framework. 
