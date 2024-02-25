@@ -19,11 +19,17 @@ Similarly, the winter wheat yield map in Kansas (KS) in 2008 is named as "KS_win
 
 # Data Availability
 
-The full yield maps are available on [Google Earth Engine](https://code.earthengine.google.com/?asset=projects/lobell-lab/VAE_QDANN_Yield_Map). To use the map, just use “projects/lobell-lab/VAE_QDANN_Yield_Map/” + state + "/" + image_name. 
+The full yield maps are available on [Google Earth Engine](https://code.earthengine.google.com/?asset=projects/lobell-lab/VAE_QDANN_Yield_Map). To use the map, access the target map in GEE by: 
+
+```javascript
+var crop_yield_map = “projects/lobell-lab/VAE_QDANN_Yield_Map/” + state + "/" + image_name
+```
 
 For example, if you want to use the corn and soybean yield map in Iowa (IA) in 2008, the code should be like:
 
+```javascript
 var crop_yield_map_IA = ee.Image('projects/lobell-lab/VAE_QDANN_Yield_Map/IA/IA_corn_soy_map_2008')
+```
 
 A demonstration of showing the corn and soybean yield maps is given in this [link](https://code.earthengine.google.com/47e3b00b53aba6a9fb1f7cf3ad32e178?asset=projects%2Flobell-lab%2FVAE_QDANN_Yield_Map).
 
