@@ -6,7 +6,7 @@ This is the homepage to host the QDANN yield maps, which is generated based on a
 
 # Data Coverage
 
-The annual QDANN yield maps include 30-m yields for corn, soybean, and winter wheat in 2008-2022. The unit is __kilograms/acre (kg/ac)__. 
+The annual QDANN yield maps include 30-m yields for corn, soybean, and winter wheat in 2008-2022. The unit is __kilograms/hactare (kg/ha)__. 
 
 For __corn and soybean__, the yield maps cover 8 states in the U.S. Corn Belt, including Illinois (IL), Indiana (IN), Iowa (IA), Missouri (MO), Minnesota (MN), Ohio (OH), South Dekota (SD), Wisconsin (WI). 
 
