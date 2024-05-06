@@ -50,6 +50,6 @@ The idea of scale transfer is discussed in our review paper [Transfer Learning i
 
 We appreciate feedbacks on the product. We are also actively looking for collabrations on utilizing QDANN yield maps for research and/or applying the scale transfer method for other applications. 
 
-Please contact us by sending emails to yuchima@stanford.edu.
+Please contact us by sending emails to Dr. Yuchi Ma (yuchima@stanford.edu) and Prof. David Lobell (dlobell@stanford.edu).
 
 If you find it useful, please star this project and cite our papers. 
