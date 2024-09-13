@@ -42,10 +42,10 @@ The QDANN model relies on labeled county-level dataset and unlabeled subfield-le
 
 # Paper
 
-**Sep 2024** The QDANN methodology paper [Subfield-level crop yield mapping without ground truth data: A scale
+**Sep 2024:** The QDANN methodology paper [Subfield-level crop yield mapping without ground truth data: A scale
 transfer framework](https://www.sciencedirect.com/science/article/pii/S003442572400453X?dgcid=author) is published in Remote Sensing of Environment. 
 
-**Oct 2023** The idea of scale transfer and other transfer learning strategies are discussed in our review paper [Transfer Learning in Environmental Remote Sensing](https://www.sciencedirect.com/science/article/pii/S0034425723004765). 
+**Oct 2023:** The idea of scale transfer and other transfer learning strategies are discussed in our review paper [Transfer Learning in Environmental Remote Sensing](https://www.sciencedirect.com/science/article/pii/S0034425723004765). 
 
 # Contact
 
