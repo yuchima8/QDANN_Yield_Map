@@ -1,4 +1,4 @@
-# QDANN 30m Yield Map for Corn, Soybean, and Winter Wheat in the U.S. 
+# QDANN 30m Yield Map for Corn, Soy, and Winter Wheat in the U.S. 
 
 ![alt text](https://github.com/yuchima8/QDANN_Yield_Map/blob/76832033ddc067b7c29981288bfe6b899fe057cf/QDANN_yield_map.png)
 
