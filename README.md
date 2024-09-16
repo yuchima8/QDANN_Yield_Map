@@ -38,7 +38,7 @@ A demonstration of showing the winter wheat yield maps is given in this [link](h
 
 # Method 
 
-The QDANN model relies on labeled county-level dataset and unlabeled subfield-level dataset. These two datasets are regared as two domains and the strategy of unsupervised domain adaptation (UDA) is used to match the data distributions in the county-level dataset (source domain) and the subfield-level dataset (target domain). Domain adversarial neural networks (DANN) is the core of this framework. 
+The QDANN model relies on labeled county-level datasets and unlabeled subfield-level datasets. These two datasets are regarded as two domains and the strategy of unsupervised domain adaptation (UDA) is used to match the data distributions in the county-level dataset (source domain) and the subfield-level dataset (target domain). Domain adversarial neural networks (DANN) is the core of this framework. 
 
 # Paper
 
@@ -46,6 +46,10 @@ The QDANN model relies on labeled county-level dataset and unlabeled subfield-le
 transfer framework](https://www.sciencedirect.com/science/article/pii/S003442572400453X?dgcid=author) is published in Remote Sensing of Environment. 
 
 **Oct 2023:** The idea of scale transfer and other transfer learning strategies are discussed in our review paper [Transfer Learning in Environmental Remote Sensing](https://www.sciencedirect.com/science/article/pii/S0034425723004765). 
+
+# License
+
+QDANN Yield Maps follows [CC-BY-NC-4.0](https://github.com/yuchima8/QDANN_Yield_Map/blob/main/CC-BY-NC-SA-4.0.txt). Thus, those compounds are freely available for academic purpose or individual research, but restricted for commecial use.
 
 # Contact
 
