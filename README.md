@@ -49,11 +49,11 @@ transfer framework](https://www.sciencedirect.com/science/article/pii/S003442572
 
 # License
 
-QDANN Yield Maps follow [CC-BY-NC-4.0](https://github.com/yuchima8/QDANN_Yield_Map/blob/main/CC-BY-NC-SA-4.0.txt). Thus, those compounds are freely available for academic purpose or individual research, but restricted for commecial use.
+QDANN Yield Maps follow [CC-BY-NC-4.0](https://github.com/yuchima8/QDANN_Yield_Map/blob/main/CC-BY-NC-SA-4.0.txt). Thus, those compounds are freely available for academic purposes or individual research, but restricted for commercial use.
 
 # Contact
 
-We appreciate feedbacks on the product. We are also actively looking for collabrations on utilizing QDANN yield maps for research and/or applying the scale transfer method for other applications. 
+We appreciate feedback on the product. We are also actively looking for collaboration on utilizing QDANN yield maps for research and/or applying the scale transfer method for other applications. 
 
 Please contact us by sending emails to Dr. Yuchi Ma (yuchima@stanford.edu) and Prof. David Lobell (dlobell@stanford.edu).
 
