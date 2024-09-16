@@ -57,4 +57,9 @@ We appreciate feedbacks on the product. We are also actively looking for collabr
 
 Please contact us by sending emails to Dr. Yuchi Ma (yuchima@stanford.edu) and Prof. David Lobell (dlobell@stanford.edu).
 
-If you find it useful, please star this project and cite our papers. 
+If you find it useful, please star this project and cite our papers:
+
+Ma, Y., Liang, S.Z., Myers, D.B., Swatantran, A. and Lobell, D.B., 2024. Subfield-level crop yield mapping without ground truth data: A scale transfer framework. Remote Sensing of Environment, 315, p.114427.
+
+Ma, Y., Chen, S., Ermon, S. and Lobell, D.B., 2024. Transfer learning in environmental remote sensing. Remote Sensing of Environment, 301, p.113924.
+
