@@ -49,7 +49,7 @@ transfer framework](https://www.sciencedirect.com/science/article/pii/S003442572
 
 # License
 
-QDANN Yield Maps follow [CC-BY-NC-4.0](https://github.com/yuchima8/QDANN_Yield_Map/blob/main/CC-BY-NC-SA-4.0.txt). Thus, those compounds are freely available for academic purposes or individual research, but restricted for commercial use.
+QDANN Yield Maps follow [CC-BY-NC-SA 4.0](https://github.com/yuchima8/QDANN_Yield_Map/blob/main/CC-BY-NC-SA-4.0.txt). Thus, those compounds are freely available for academic purposes or individual research, but restricted for commercial use.
 
 # Contact
 
